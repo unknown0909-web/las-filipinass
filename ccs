@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  margin: 0;
+  height: 100vh;
+  background-image: url("background.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+}
+</style>
+</head>
+
+<body>
+  <h1 style="text-align:center; padding-top:200px;">
+    LAS FILIPINAS
+  </h1>
+</body>
+</html>
